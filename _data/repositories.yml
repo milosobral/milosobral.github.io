@@ -1,14 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - milosobral
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - milosobral/CUDADL
+  - milosobral/ModelSoup
+  - milosobral/jupyterplot
+  - MISTLab/tls-python-object
+  - Portiloop/portiloop-software
+  - milosobral/dotfiles
+
